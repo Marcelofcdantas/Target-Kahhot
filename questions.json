@@ -1,0 +1,172 @@
+[
+    {
+        "question": "Who are common targets of cyberattacks?",
+        "options": [
+            "Only governments",
+            "Only individuals",
+            "Individuals, organizations, and governments",
+            "Only small businesses"
+        ],
+        "correct_answer": "Individuals, organizations, and governments"
+    },
+    {
+        "question": "What is a primary target of cyber attackers?",
+        "options": [
+            "Physical buildings",
+            "Data (e.g., personal, financial, intellectual property)",
+            "Office furniture",
+            "Employee uniforms"
+        ],
+        "correct_answer": "Data (e.g., personal, financial, intellectual property)"
+    },
+    {
+        "question": "Why do attackers often target organizations?",
+        "options": [
+            "To give them free software",
+            "For financial gain or to steal sensitive data",
+            "To improve their reputation",
+            "To help them grow their business"
+        ],
+        "correct_answer": "For financial gain or to steal sensitive data"
+    },
+    {
+        "question": "Which of the following is an example of a cyberattack?",
+        "options": [
+            "Sending a thank-you email",
+            "Phishing emails",
+            "Writing a blog post",
+            "Hosting a webinar"
+        ],
+        "correct_answer": "Phishing emails"
+    },
+    {
+        "question": "What is the main goal of ransomware attacks?",
+        "options": [
+            "To improve system performance",
+            "To encrypt data and demand payment for its release",
+            "To delete all data permanently",
+            "To send spam emails"
+        ],
+        "correct_answer": "To encrypt data and demand payment for its release"
+    },
+    {
+        "question": "Which group is known for hacktivism?",
+        "options": [
+            "Anonymous",
+            "Microsoft",
+            "Google",
+            "Apple"
+        ],
+        "correct_answer": "Anonymous"
+    },
+    {
+        "question": "What is a common motivation for state-sponsored cyberattacks?",
+        "options": [
+            "To sell products",
+            "To gain intelligence or disrupt rival nations",
+            "To improve global internet speed",
+            "To promote tourism"
+        ],
+        "correct_answer": "To gain intelligence or disrupt rival nations"
+    },
+    {
+        "question": "What was the impact of the WannaCry ransomware attack?",
+        "options": [
+            "Improved healthcare services",
+            "Disrupted hospitals and businesses worldwide",
+            "Increased global internet speed",
+            "Created new jobs in cybersecurity"
+        ],
+        "correct_answer": "Disrupted hospitals and businesses worldwide"
+    },
+    {
+        "question": "What is a key target of attackers in critical infrastructure?",
+        "options": [
+            "Social media influencers",
+            "Power grids and water supply systems",
+            "Fast-food restaurants",
+            "Movie theaters"
+        ],
+        "correct_answer": "Power grids and water supply systems"
+    },
+    {
+        "question": "What is the purpose of a DDoS attack?",
+        "options": [
+            "To improve website performance",
+            "To overload servers and crash websites",
+            "To send friendly messages",
+            "To encrypt data"
+        ],
+        "correct_answer": "To overload servers and crash websites"
+    },
+    {
+        "question": "Which of the following is a cybersecurity best practice?",
+        "options": [
+            "Using '123456' as a password",
+            "Regularly updating software",
+            "Sharing passwords with friends",
+            "Ignoring phishing emails"
+        ],
+        "correct_answer": "Regularly updating software"
+    },
+    {
+        "question": "What is the primary goal of phishing attacks?",
+        "options": [
+            "To improve email security",
+            "To steal sensitive information like passwords or credit card numbers",
+            "To send holiday greetings",
+            "To promote new products"
+        ],
+        "correct_answer": "To steal sensitive information like passwords or credit card numbers"
+    },
+    {
+        "question": "What is an example of a supply chain attack?",
+        "options": [
+            "SolarWinds breach",
+            "Sending a package via FedEx",
+            "Building a new factory",
+            "Hiring new employees"
+        ],
+        "correct_answer": "SolarWinds breach"
+    },
+    {
+        "question": "What is a common tool used by attackers to exploit database vulnerabilities?",
+        "options": [
+            "SQL Injection",
+            "Firewalls",
+            "Antivirus software",
+            "Password managers"
+        ],
+        "correct_answer": "SQL Injection"
+    },
+    {
+        "question": "What is the main purpose of espionage in cyberattacks?",
+        "options": [
+            "To sell products",
+            "To steal secrets or sensitive information",
+            "To improve employee morale",
+            "To promote teamwork"
+        ],
+        "correct_answer": "To steal secrets or sensitive information"
+    },
+    {
+        "question": "What is a key impact of cyberattacks on organizations?",
+        "options": [
+            "Increased profits",
+            "Loss of trust and reputation",
+            "Improved customer satisfaction",
+            "Faster internet speeds"
+        ],
+        "correct_answer": "Loss of trust and reputation"
+    },
+    {
+        "question": "What is a common way to protect against phishing attacks?",
+        "options": [
+            "Clicking on all links in emails",
+            "Enabling two-factor authentication (2FA)",
+            "Sharing passwords with colleagues",
+            "Ignoring software updates"
+        ],
+        "correct_answer": "Enabling two-factor authentication (2FA)"
+    }
+]

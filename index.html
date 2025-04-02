@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 id="question">Quiz: Who are common targets of cyberattacks?</h1>
+    <div id="questionCount"></div>
+    <div class="bigcontainer">
+        <div id="countdown"></div> 
+        <div class="container">
+            <div class="options" id="options-container">
+                <div class="option" data-correct="false">
+                    <span>a. Only governments</span>
+                    <input type="number" class="votes" value="0" min="0">
+                </div>
+                <div class="option" data-correct="false">
+                    <span>b. Only individuals</span>
+                    <input type="number" class="votes" value="0" min="0">
+                </div>
+                <div class="option" data-correct="true">
+                    <span>c. Individuals, organizations, and governments</span>
+                    <input type="number" class="votes" value="0" min="0">
+                </div>
+                <div class="option" data-correct="false">
+                    <span>d. Only small businesses</span>
+                    <input type="number" class="votes" value="0" min="0">
+                </div>
+            </div>
+            <div class="button-container">
+                <button id="analyze">Answer</button>
+                <button id="nextQuestion" style="display: none;">Next Question</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
